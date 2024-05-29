@@ -8,6 +8,8 @@ I am Sanjay Kumar(Eat,Sleep,Code,Physcial_Activity and repeat)
 - 🎇 I am working on Youtube From my 6th Grade, I know Basic editing skills, I was a gamer Before.
 - I have problem solving abilities, I have displayed to My leet code, GFG, and other platforms
 - I am Currently Learning MERN stack, I am really intersted to contribute in open source
+  ---
+  
 **Hobbies and Interest**
 - 🏃 I love running a long distance, Basically I am a sprinter.
 - 🥊 I really love to fight, I am a self trained boxer.
