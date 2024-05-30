@@ -10,12 +10,6 @@ I am Sanjay Kumar(Eat,Sleep,Code,Physical_Activity and repeat)
 - 📚 I am Currently Learning MERN stack, I am really intersted to contribute in open source.
 
   ---
-  
-**Hobbies and Interest**
-- 🏃 I love running a long distance, Basically I am a sprinter.
-- 🥊 I really love to fight, I am a self trained boxer.
-- 🕺 I really love to perform Aerobics like dance, music and enjoy doing other physical activies regularly .
----
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/05sanjaykumar/achievements?format=svg&limit=3" width="350" />
 </p>
