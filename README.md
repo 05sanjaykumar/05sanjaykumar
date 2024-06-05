@@ -23,6 +23,3 @@ I am Sanjay Kumar(Eat,Sleep,Code,Physical_Activity and repeat)
   <img src="https://api.vaunt.dev/v1/github/entities/05sanjaykumar/achievements?format=svg&limit=3" width="350" />
 </p>
 
-Overall Visits
-
-![](https://komarev.com/ghpvc/?username=05sanjaykumar)
