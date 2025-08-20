@@ -1,27 +1,73 @@
-# Hi there this is Sanjay Kumar👋
+# Sanjay Kumar - Technical Founder & Product Builder
 
-## **About ME**
+**Shipping AI-powered products that solve real business problems.**
 
-Hey this is Sanjay Kumar. I am an Indie Hacker, Polyglot and a self taught dev, and I also learn programming from the age of 15. I am a hobbiest and curious driven learner and work on multiple stack overall(You can just see my repo if you need it).
+Currently scaling an AI email management platform helping customer support teams cut response times by 70%.
 
-I’m a solo product consultant and full-stack engineer who builds end-to-end SaaS tools for founders.
-From frontend to backend, DevOps to AI integrations — I design and ship everything solo.
-My projects use cutting-edge stacks like React, Flask, LangChain, Groq-hosted LLMs, Puppeteer, and Docker.
-I specialize in fast, real-world MVPs with a strong B2B focus.
+## What I'm Building
 
+🚀 **Founder and CEO of Skyler AI** - SaaS tool that transforms Social Media into an intelligent customer service hub. Uses sentiment analysis to automatically prioritize frustrated customers and enables bulk responses.
 
-## **The services I could actually do**
+**Early traction:** Solving email chaos for growing support teams at 20+ companies.
 
-- I am ready to take contracts. I could help you in creating full stack application overall. This includes Frontend, Backend, Devops, Cloud delopyment, AI-integration and so on.
-- I will able to help you in consulting, system designing and advicing and guiding you overall on tech related stuffs.
-- Even I am ready to collab and make project in open source.
-- There are templates that are ready and you could actually use it. There are few templates out there in my projects, if you like I could help you in setting up the templates that you needed.
-- Able to build full SAAS products for your Company.
-- I’m a B2B SaaS/Product Consultant. I help founders launch complete web or AI products — from concept to deployment — fast and independently.
-- I work with early-stage founders to turn their startup ideas into full-stack web products — including Stripe, auth, dashboards, AI features — solo and outcome-based.
+**Vision:** Expanding to complete social media management suite for business communications and Virtual Reality. 
+
+## Founder Collaboration
+
+I partner with non-technical founders who have validated business ideas but need someone to build and ship the actual product. Think of me as your technical co-founder on specific projects.
+
+**What I Bring:**
+- Full product development from idea to paying customers
+- AI/ML integration expertise for competitive advantage  
+- Rapid shipping mindset - MVP to market in 3-4 weeks
+- Business understanding of SaaS metrics and growth
+
+**Ideal Partnerships:**
+- You have market insights, I handle all technical execution
+- Revenue-sharing or equity partnerships for the right opportunities
+- Focus on B2B SaaS where technical differentiation matters
+- Building to solve real problems, not just cool demos
+
+## Current Tech Focus
+
+**AI-First Products:** LLM integrations, automation, intelligent data processing
+**B2B SaaS Infrastructure:** Multi-tenant architecture, usage-based billing, analytics
+**Browser Extensions:** Chrome/Gmail integrations for productivity tools
+**API-First Development:** Building for scale and third-party integrations
+
+## Technical Foundation
+
+**Full-Stack:** React/Next.js, Node.js, Python, PostgreSQL
+**AI/ML:** OpenAI, LangChain, Groq, custom model fine-tuning  
+**Infrastructure:** Docker, VPS, automated deployments
+**SaaS Essentials:** Stripe, auth systems, usage tracking, webhooks
+
+## Open Source Contributions
+
+I maintain several production-ready frameworks that founders use to ship faster:
+
+- **SaaS Architecture Template** - Complete multi-tenant setup
+- **AI Integration Boilerplate** - LLM chat interfaces and automation
+- **Gmail Extension Framework** - Email productivity tool foundation
+- **Payment & Analytics Stack** - Stripe + usage tracking + dashboards
+
+## Let's Build Something
+
+**Looking for founders who:**
+- Have identified real market problems (not just "cool ideas")
+- Want to move fast and validate with actual customers
+- Need technical execution but want to stay involved in product decisions
+- Are building for B2B markets where AI can create real competitive advantages
+
+**Not interested in:**
+- Pure consulting or "build this exact spec" projects
+- Consumer apps without clear monetization
+- Projects where I'm just an implementer, not a partner
+
+**Reach out if:** You're a founder with a validated problem and want a technical partner who thinks like a CEO, not just a developer.
 
 ---
 
+**Contact:** [contact@sanjaybuilds.com] | [www.sanjaybuilds.com] | [https://calendly.com/0508sanjaykumar/30min]
 
-If you want to contact me, just mail me **contact@sanjaybuilds.com**
-My website **www.sanjaybuilds.com**
+*21-year-old founder, Currently building products. Been shipping code since 15. Currently focused on AI-powered B2B tools that solve real business problems.*
