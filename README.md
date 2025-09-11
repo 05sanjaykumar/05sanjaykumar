@@ -8,7 +8,7 @@ I am techincal generalist and solution architect who can build just an idea into
 
 **Founder of Skyler Inbox** - SaaS tool that transforms Social Media into an intelligent customer service hub. Uses sentiment analysis to automatically prioritize frustrated customers and enables bulk responses, also uses semantic search to find results. 
 
-Website link(Currently Beta Testing and under development): https://skylerinbox.com/ 
+Website link(Currently Beta Testing and under development): https://www.skylerinbox.com/ 
 
 
 ## Technical Foundation
