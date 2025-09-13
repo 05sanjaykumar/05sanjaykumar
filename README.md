@@ -18,9 +18,10 @@ Website link(Currently Beta Testing and under development): https://www.skylerin
 - **Authentication:** JWT, Oauth, Next Auth.
 - **Design:** ShadCN UI, Tailwind, other modern UI libararies.
 - **AI/ML:** OpenAI, Gemini API, LangChain, Groq, custom model fine-tuning, Custom ML models. 
-- **Infrastructure:** Docker, VPS, automated deployments, nginx, CI/CD, Automate tests, Linux. 
+- **Infrastructure:** Docker, VPS, automated deployments, nginx, CI/CD, Automate tests, Linux.
+- **Algorithms:** Data Structure and algorithms, DQN, Reinforcement Learning Basic, Physics from game dev experience. 
 - **SaaS Essentials:** Paypal, Cashfree, auth systems, Analytics, usage tracking, webhooks, Web Scraping.
-- **Others** Complete SaaS architecture, custom solutions for problems, Business skills. 
+- **Others** Complete SaaS architecture, custom solutions for problems, Business skills.
 
 **Fun fact:** I can learn anything at that time and give  custom solution, I learn quickly and produce immediate value unlike being bound by any technology. I don't just give advice, I just show working results with implementation. I am never limited by any technology since I focus more on logic and working flow. I have other skills including game dev, etc. But yeah I haven't included and did have place to include and mostly forget my own skills that I have 😅. 
 
