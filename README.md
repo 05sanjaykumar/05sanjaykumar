@@ -33,11 +33,13 @@ Website link(Currently Beta Testing and under development): https://www.skylerin
 
 ## Services I am ready for
 
-- Fraction CTO roles. 
-- Solution Architecture with Implementation.
+- Fraction CTO roles and technical founder roles. 
+- Solution Architecture with Implementation and Product Manager. 
 - Business parntership and equity leading teams as CTO or senior positions.
+- Devops, Custom AI/ML solutions, Full stack solutions with implementation, Custom Algorithmic solutions.
+- Business strategist, Turning Business ideas into working solutions. 
 - Complete SaaS building 0 -> 1 for start ups, from idea to enterprise grade solution.
-- Implement Consultancy, freelancing, etc.
+- Techincal Consultancy, Freelancing, etc.
 - Mentoring, guidance, etc.
 
 Yeah I am very flexible and open to things since I am a generalist, I am ready to work and help for other start ups, unicorns. I can wear multiple caps in the start up and work. Reach out if you want any other thing in specific.
