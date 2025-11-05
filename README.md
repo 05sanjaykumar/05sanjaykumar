@@ -10,7 +10,8 @@ I am techincal generalist and solution architect who can build just an idea into
 - **Data-Base:** Firebase, Supabase, Mongo DB, Postgres SQL, Dexie, Redis. 
 - **Authentication:** JWT, Oauth, Next Auth.
 - **Design:** ShadCN UI, Tailwind, other modern UI libararies.
-- **AI/ML:** OpenAI, Gemini API, LangChain, Groq, custom model fine-tuning, Custom ML models. 
+- **AI/ML:** OpenAI, Gemini API, LangChain, Groq, custom model fine-tuning, Custom ML models.
+- **AI Agents tool kit:** Cartesia, Livekit, Webrtc, Open AI whisper, open AI. 
 - **Infrastructure:** Docker, VPS, automated deployments, nginx, CI/CD, Automate tests, Linux.
 - **Algorithms:** Data Structure and algorithms, DQN, Reinforcement Learning Basic, Physics from game dev experience. 
 - **SaaS Essentials:** Paypal, Cashfree, auth systems, Analytics, usage tracking, webhooks, Web Scraping.
