@@ -37,5 +37,3 @@ Yeah I am very flexible and open to things since I am a generalist, I am ready t
 ---
 
 **Contact:** [contact@sanjaybuilds.com] | [www.sanjaybuilds.com] | [https://calendly.com/0508sanjaykumar/30min]
-
-*21-year-old founder, Currently building products. Been shipping code since 15. Currently focused on AI-powered B2B tools that solve real business problems.*
