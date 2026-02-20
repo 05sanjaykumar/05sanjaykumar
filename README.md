@@ -2,7 +2,7 @@
 
 **Shipping AI-powered products that solve real business problems.**
 
-I am techincal generalist and solution architect who can build just an idea into a working SaaS without hand holding. Just give me idea or say your problem I will give custom solution, no need hanlding holding. 
+I am technical generalist and solution architect who can build just an idea into a working SaaS without hand holding. Just give me idea or say your problem I will give custom solution, no need hanlding holding. 
 
 ## Technical Foundation
 
