@@ -2,7 +2,7 @@
 
 **Shipping AI-powered products that solve real business problems.**
 
-I am technical generalist and solution architect who can build just an idea into a working SaaS without hand holding. Just give me idea or say your problem I will give custom solution, no need hanlding holding. 
+I am technical generalist and solution architect who can build just an idea into a working SaaS without hand holding. Just give me idea or say your problem I will give custom solution, no need hand holding. 
 
 ## Technical Foundation
 
@@ -16,8 +16,6 @@ I am technical generalist and solution architect who can build just an idea into
 - **Algorithms:** Data Structure and algorithms, DQN, Reinforcement Learning Basic, Physics from game dev experience. 
 - **SaaS Essentials:** Paypal, Cashfree, auth systems, Analytics, usage tracking, webhooks, Web Scraping.
 - **Others** Complete SaaS architecture, custom solutions for problems.
-
-**Fun fact:** I can learn anything at that time and give  custom solution, I learn quickly and produce immediate value unlike being bound by any technology. I don't just give advice, I just show working results with implementation. I am never limited by any technology since I focus more on logic and working flow. I have other skills including game dev, etc. But yeah I haven't included and did have place to include and mostly forget my own skills that I have 😅. 
 
 ## Services I am ready for
 
