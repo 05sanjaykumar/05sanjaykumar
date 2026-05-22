@@ -27,20 +27,21 @@ I design and ship end-to-end voice AI systems (STT → LLM → TTS) and AI agent
 
 ## 🏆 Recognition & Highlights
 
-- 🇺🇸 **Freya Voice (YC S25)** — 133ms voice pipeline, delivered in 3 days
-- 🇬🇧 **Pebble (UK Fintech)** — end-to-end Voice AI intake system
+- 🇺🇸 **Freya Voice (YC S25)** — 133ms voice pipeline, delivered in 3 days → [View Repo](https://github.com/05sanjaykumar/Freya-Voice-YC25)
+- 🇬🇧 **Pebble (UK Fintech)** — end-to-end Voice AI intake system → [View Repo](https://github.com/05sanjaykumar/Pebble)
 - 🇺🇸 **Gensail (US)** — real-time voice AI assistant
-- 🇺🇸 **VectorShift (YC S23)** — OAuth 2.0 integration, delivered in 24 hours
+- 🇺🇸 **VectorShift (YC S23)** — OAuth 2.0 integration, delivered in 24 hours → [View Repo](https://github.com/05sanjaykumar/Vectorshift-YC-S23)
 - ⭐ **Entrepreneurs First Bangalore Fall 2026** — Shortlisted (~1–3% acceptance)
-- 🔧 **GitSlice CLI** — 18 GitHub stars, featured on Hacker News
+- 🔧 **GitSlice CLI** — 20 GitHub stars, featured on Hacker News → [View Repo](https://github.com/05sanjaykumar/gitslice)
 - 🏠 **JEE Mains 92.4 percentile** (top 8% nationally)
 
 ---
 
 ## 📦 Featured Projects
 
-- **[Skyler Inbox](https://skylerinbox.com/)** — AI email assistant with ML classification (DistilBERT, MiniLM), credits-based SaaS, PayPal + Cashfree payments
-- **[GitSlice CLI](https://github.com/05sanjaykumar/gitslice)** — Extract files from any GitHub repo without cloning. Built in Go. 18★ on GitHub
+- **[Skyler Inbox](https://skylerinbox.com/)** — AI email assistant with ML classification (DistilBERT, MiniLM), credits-based SaaS, PayPal + Cashfree payments → [View Repo](https://github.com/05sanjaykumar/Skyler-AI)
+- **[GitSlice CLI](https://github.com/05sanjaykumar/gitslice)** — Extract files from any GitHub repo without cloning. Built in Go. 20★ on GitHub
+- **[Peer Drop](https://github.com/05sanjaykumar/Peer-Drop)** — Real-time P2P file sharing & chat using WebRTC, Go, React — encrypted, serverless in communication
 - **[Product Summariser AI](https://github.com/05sanjaykumar/Advance-Product-Summariser-AI)** — AI product research tool using web scraping + LLM summarisation
 
 ---
