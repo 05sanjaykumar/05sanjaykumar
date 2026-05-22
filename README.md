@@ -29,7 +29,7 @@ I design and ship end-to-end voice AI systems (STT → LLM → TTS) and AI agent
 
 - 🇺🇸 **Freya Voice (YC S25)** — 133ms voice pipeline, delivered in 3 days → [View Repo](https://github.com/05sanjaykumar/Freya-Voice-YC25)
 - 🇬🇧 **Pebble (UK Fintech)** — end-to-end Voice AI intake system → [View Repo](https://github.com/05sanjaykumar/Pebble)
-- 🇺🇸 **Gensail (US)** — real-time voice AI assistant
+- 🇺🇸 **Gensail (US)** — real-time voice AI assistant → [View Repo](https://github.com/05sanjaykumar/Gensail-Trail-Project)
 - 🇺🇸 **VectorShift (YC S23)** — OAuth 2.0 integration, delivered in 24 hours → [View Repo](https://github.com/05sanjaykumar/Vectorshift-YC-S23)
 - ⭐ **Entrepreneurs First Bangalore Fall 2026** — Shortlisted (~1–3% acceptance)
 - 🔧 **GitSlice CLI** — 20 GitHub stars, featured on Hacker News → [View Repo](https://github.com/05sanjaykumar/gitslice)
