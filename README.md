@@ -1,37 +1,57 @@
-# Sanjay Kumar - 0 -> 1 MVP  & Product Builder
+# Sanjay Kumar — Voice AI Engineer & AI Agent Builder
 
-**Shipping AI-powered products that solve real business problems.**
+**Building real-time voice AI pipelines and AI agents for startups — production-grade, shipped fast.**
 
-I am technical generalist and solution architect who can build just an idea into a working SaaS without hand holding. Just give me idea or say your problem I will give custom solution, no need hand holding. 
-
-## Technical Foundation
-
-- **Full-Stack:** React/Next.js, Node.js, Python, PostgreSQL, Prisma, 
-- **Data-Base:** Firebase, Supabase, Mongo DB, Postgres SQL, Dexie, Redis. 
-- **Authentication:** JWT, Oauth, Next Auth.
-- **Design:** ShadCN UI, Tailwind, other modern UI libararies.
-- **AI/ML:** OpenAI, Gemini API, LangChain, Groq, custom model fine-tuning, Custom ML models.
-- **AI Agents tool kit:** Cartesia, Livekit, Webrtc, Open AI whisper, open AI. 
-- **Infrastructure:** Docker, VPS, automated deployments, nginx, CI/CD, Automate tests, Linux.
-- **Algorithms:** Data Structure and algorithms, DQN, Reinforcement Learning Basic, Physics from game dev experience. 
-- **SaaS Essentials:** Paypal, Cashfree, auth systems, Analytics, usage tracking, webhooks, Web Scraping.
-- **Others** Complete SaaS architecture, custom solutions for problems.
-
-## Services I am ready for
-
-- Full stack roles and founding Engineer roles. 
-- Solution Architecture with Implementation and Product Manager. 
-- Devops, Custom AI/ML solutions, Full stack solutions with implementation, Custom Algorithmic solutions.
-- Business strategist, Turning Business ideas into working solutions. 
-- Complete SaaS building 0 -> 1 for start ups, from idea to enterprise grade solution, no hand holding required.
-
-
-Yeah I am very flexible and open to things since I am a generalist, I am ready to work and help for other start ups, unicorns. I can wear multiple caps in the start up and work. Reach out if you want any other thing in specific.
-
-# Products Built
-
-- **Skyler Inbox**: https://skylerinbox.com/ : An email organisation, classification tools, automates mails, helps forming drafts, uses semantics and sentiment analysis. 
+I design and ship end-to-end voice AI systems (STT → LLM → TTS) and AI agents at commercial quality. Built a **133ms latency** voice pipeline for **Freya Voice (YC S25)**. Delivered AI systems for **Pebble (UK Fintech)**, **Gensail (US)**, and **VectorShift (YC S23)**. Shortlisted for **Entrepreneurs First Bangalore Fall 2026** (~1–3% acceptance rate).
 
 ---
 
-**Contact:** [contact@sanjaybuilds.com] | [www.sanjaybuilds.com] | [https://calendly.com/0508sanjaykumar/30min]
+## 🔊 Voice AI Stack
+
+- **Real-time Streaming:** LiveKit, WebRTC, WebSocket, Pipecat
+- **STT:** Groq Whisper, NVIDIA Nemotron, OpenAI Whisper, Silero VAD
+- **LLM:** Groq (LLaMA 3.1), OpenAI, LangChain, custom prompt pipelines
+- **TTS:** Cartesia, Kokoro (local), ElevenLabs
+- **Infra:** FastAPI, Docker, Railway, Vercel
+
+## 🧠 AI & Full-Stack
+
+- **Frontend/Backend:** Next.js, React, Node.js (Express), Python, FastAPI, Flask
+- **Databases:** PostgreSQL, Supabase, MongoDB, Redis, Prisma, Dexie
+- **AI/ML:** LangChain, OpenAI, Groq, DistilBERT, MiniLM, custom ML pipelines
+- **Auth & Payments:** OAuth 2.0, JWT, PayPal, Cashfree, Stripe
+- **DevOps:** Docker, Docker Compose, NGINX, CI/CD, Linux, VPS
+- **Languages:** Python, TypeScript/JavaScript, Go, Java, C/C++
+
+---
+
+## 🏆 Recognition & Highlights
+
+- 🇺🇸 **Freya Voice (YC S25)** — 133ms voice pipeline, delivered in 3 days
+- 🇬🇧 **Pebble (UK Fintech)** — end-to-end Voice AI intake system
+- 🇺🇸 **Gensail (US)** — real-time voice AI assistant
+- 🇺🇸 **VectorShift (YC S23)** — OAuth 2.0 integration, delivered in 24 hours
+- ⭐ **Entrepreneurs First Bangalore Fall 2026** — Shortlisted (~1–3% acceptance)
+- 🔧 **GitSlice CLI** — 18 GitHub stars, featured on Hacker News
+- 🏠 **JEE Mains 92.4 percentile** (top 8% nationally)
+
+---
+
+## 📦 Featured Projects
+
+- **[Skyler Inbox](https://skylerinbox.com/)** — AI email assistant with ML classification (DistilBERT, MiniLM), credits-based SaaS, PayPal + Cashfree payments
+- **[GitSlice CLI](https://github.com/05sanjaykumar/gitslice)** — Extract files from any GitHub repo without cloning. Built in Go. 18★ on GitHub
+- **[Product Summariser AI](https://github.com/05sanjaykumar/Advance-Product-Summariser-AI)** — AI product research tool using web scraping + LLM summarisation
+
+---
+
+## 💬 Open To
+
+- Voice AI Engineer / AI Agent roles at startups
+- Founding Engineer & Forward Deployed Engineer positions
+- Freelance voice AI pipeline builds for YC / early-stage founders
+- Technical collaborations on real-time AI systems
+
+---
+
+**Contact:** contact@sanjaybuilds.com | [sanjaybuilds.com](https://www.sanjaybuilds.com) | [LinkedIn](https://linkedin.com/in/sanjay-kumar-6382a1372) | [Book a call](https://calendly.com/0508sanjaykumar/30min)
